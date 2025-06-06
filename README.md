@@ -36,8 +36,3 @@ Dataset ini dapat digunakan untuk:
 - Latihan klasifikasi sentimen menggunakan machine learning atau deep learning
 - Analisis persepsi publik terhadap aplikasi media sosial
 - Studi perbandingan ulasan antar platform
-
-## Lisensi & Etika
-
-- Dataset ini hanya untuk **penggunaan non-komersial dan akademis**.
-- Mohon untuk tetap menjaga privasi pengguna — semua data bersifat anonim dan tidak untuk disebarkan secara tidak bertanggung jawab.
